@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@argos-ci/cypress": "^1.5.3",
+    "cypress": "^13.6.6"
+  }
+}
